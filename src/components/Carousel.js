@@ -11,8 +11,8 @@ function UncontrolledExample() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>Café Orgánico La Montaña</h3>
+          <p>Recarga tus mañanas con la energía del campo, activa tu día con la naturaleza.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -23,8 +23,8 @@ function UncontrolledExample() {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Cacao Orgánico La Montaña</h3>
+          <p>Iniciar tu día con una buen taza de chocolate, siempre será tu mejor opción.</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

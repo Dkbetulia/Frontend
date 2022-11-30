@@ -24,7 +24,7 @@ function App() {
           <Navbar bg="dark" variant="dark">
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>Vende Digital</Navbar.Brand>
+                <Navbar.Brand>Rocket Store</Navbar.Brand>
               </LinkContainer>
               <Nav>
                 <Link to="/about" className="nav-link">
